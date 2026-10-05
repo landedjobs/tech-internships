@@ -202,6 +202,32 @@
     ]
   },
   {
+    "dedupeKey": "job:4a4692b5-0d31-4034-83c1-2137b89796e9",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "PhD Research Intern, Embodied and Agentic AI - 2027",
+    "applyUrl": "https://go.landed.jobs/qhd0rka",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "C++"
+    ],
+    "posted": "2026-10-02T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:803b7ff8-2da1-45b6-bdb5-5a82c1d7b6b9",
     "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
     "company": "Intel",
@@ -1264,31 +1290,6 @@
     ]
   },
   {
-    "dedupeKey": "job:dad1d12e-1941-42d9-94e9-025378a592cb",
-    "companyId": "company_0fa3d40aff36fa2be290e9ca55b92715",
-    "company": "Spotify",
-    "companyDomain": "spotify.com",
-    "role": "CoLM 2026 — Intern",
-    "applyUrl": "https://go.landed.jobs/t8mv1ua",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "London, UK",
-      "Stockholm, Sweden"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-24T16:44:19.311Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Digital Media 50",
-      "$103B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:95c992b7-1566-49b8-9193-92316cc6ed55",
     "companyId": "company_0fa3d40aff36fa2be290e9ca55b92715",
     "company": "Spotify",
@@ -1524,34 +1525,6 @@
       "PyTorch",
       "Tensorflow",
       "JAX"
-    ],
-    "posted": "2026-09-23T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:b8c9ddbe-2937-435b-b337-756d93150789",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "PhD Research Intern, Electronic Design Automation - 2027",
-    "applyUrl": "https://go.landed.jobs/fmc1806",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "rapid prototyping environments such as Python",
-      "C++ and parallel programming (e.g., CUDA)",
-      "EDA (e.g., formal verification techniques, logic synthesis, physical design, and timing and signoff) algorithms",
-      "AI"
     ],
     "posted": "2026-09-23T00:00:00.000Z",
     "companyTier": "A",
@@ -3239,52 +3212,6 @@
     ]
   },
   {
-    "dedupeKey": "job:bdbfd0d4-6c35-49d7-819a-16059af074fc",
-    "companyId": "company_1061d26b72c6dd3e75c7750e6661242c",
-    "company": "EquipmentShare",
-    "companyDomain": "equipmentshare.com",
-    "role": "Intern: Software Engineer",
-    "applyUrl": "https://go.landed.jobs/zxgahut",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Columbia, MO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-14T16:12:59.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W15",
-      "$4.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:0465348c-3acc-43aa-900c-d797b4a52a13",
-    "companyId": "company_1061d26b72c6dd3e75c7750e6661242c",
-    "company": "EquipmentShare",
-    "companyDomain": "equipmentshare.com",
-    "role": "Intern: Software Engineer",
-    "applyUrl": "https://go.landed.jobs/35fk72k",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Columbia, MO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-14T16:11:05.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W15",
-      "$4.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:11136aa9-6112-4cb5-9f2e-8da1b67031af",
     "companyId": "company_1061d26b72c6dd3e75c7750e6661242c",
     "company": "EquipmentShare",
@@ -3518,40 +3445,6 @@
       "assembly",
       "version control",
       "test cases"
-    ],
-    "posted": "2026-09-11T00:03:04.613Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:d5d0ac1b-b6a9-49fd-8f1e-cb03aefb4ac2",
-    "companyId": "company_b23503a323cf7b63923eb99bc46a8e4b",
-    "company": "Impulse Space",
-    "companyDomain": "impulsespace.com",
-    "role": "Ground Software Engineering Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/vz5yljp",
-    "location": "Redondo Beach, CA",
-    "locations": [
-      "Redondo Beach, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "JavaScript",
-      "React",
-      "Vue.js",
-      "FastAPI",
-      "Flask",
-      "Django",
-      "RESTful API design",
-      "Git",
-      "Linux"
     ],
     "posted": "2026-09-11T00:03:04.613Z",
     "companyTier": "A",
@@ -4192,238 +4085,56 @@
     ]
   },
   {
-    "dedupeKey": "job:3300de0d-a727-4edb-b0c1-736f962b39f7",
-    "companyId": "company_bbe593a37fcb05d66a0a07ea078a3e15",
-    "company": "Dropbox",
-    "companyDomain": "dropbox.com",
-    "role": "Software Engineering Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/1w9ay6v",
-    "location": "🌐 Remote (US, Canada)",
+    "dedupeKey": "job:0d1fc6a6-1e6c-4d43-92c1-f25534e36862",
+    "companyId": "company_b91fa61d92ef692fdef4bcf64c9099b3",
+    "company": "Allianz",
+    "companyDomain": "allianz.com",
+    "role": "Student Intern - Catastrophe Modeling",
+    "applyUrl": "https://go.landed.jobs/42xnie1",
+    "location": "New York City, NY",
     "locations": [
-      "Canada",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "Go",
-      "JavaScript"
-    ],
-    "posted": "2026-09-07T15:06:46.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$7.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6221108b-0256-4332-a4fd-9c9c05996a38",
-    "companyId": "company_5b606ac1fa369da04c25ef47c7218dcb",
-    "company": "Apex Technology, Inc.",
-    "companyDomain": "apexspace.com",
-    "role": "Simulation Software Engineering Internship (Spring or Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/4scyom2",
-    "location": "Los Angeles, CA",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "C/C++",
-      "modeling",
-      "embedded system"
-    ],
-    "posted": "2026-09-04T21:35:12.208Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9576eeee-4693-45f9-9c21-04a80b4f9d7e",
-    "companyId": "company_49dbb69c19ad4d1adef0a84c1d671633",
-    "company": "Juicebox",
-    "companyDomain": "juicebox.ai",
-    "role": "Software Engineer Intern",
-    "applyUrl": "https://go.landed.jobs/odm4yev",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Next.js",
-      "React",
-      "Node.js",
-      "OpenSearch",
-      "AWS SQS",
-      "Spark",
-      "LLMs"
-    ],
-    "posted": "2026-09-04T20:28:37.144Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S22",
-      "$850M valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:cbecb659-174c-4c1d-9265-0e4e617ee97c",
-    "companyId": "company_360220ea93a91c899b62cb937583292e",
-    "company": "Scale AI",
-    "companyDomain": "scale.com",
-    "role": "Software Engineering Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/p5p4kfa",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "UI/UX tooling",
-      "ML algorithms",
-      "Python",
-      "Typescript",
-      "React",
-      "MongoDB",
-      "LLMs",
-      "evaluations",
-      "agentic systems"
-    ],
-    "posted": "2026-09-04T16:00:19.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S16",
-      "$29B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:2815e158-64de-4007-b0b4-e94f1069e3f1",
-    "companyId": "company_8333eb4073192d57cffad4d658223694",
-    "company": "Skydio",
-    "companyDomain": "skydio.com",
-    "role": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
-    "applyUrl": "https://go.landed.jobs/vc3t8cx",
-    "location": "San Mateo, CA",
-    "locations": [
-      "San Mateo, CA"
+      "New York City, NY"
     ],
     "remote": "hybrid",
     "region": "us",
-    "family": "ai_machine_learning",
+    "family": "research_science",
     "level": "intern",
     "skills": [
-      "computer vision algorithms",
-      "deep learning",
-      "math",
-      "theory",
-      "software development"
-    ],
-    "posted": "2026-09-03T23:28:02.086Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$4.4B valuation",
-      "Series F"
-    ]
-  },
-  {
-    "dedupeKey": "job:a3c66c45-9fe1-40b3-a79a-58e5ec5bb54d",
-    "companyId": "company_e502e15402e684389467393bdd7c23f7",
-    "company": "Hermeus",
-    "companyDomain": "hermeus.com",
-    "role": "GNC & Flight Software Intern - Spring/Summer 2027",
-    "applyUrl": "https://go.landed.jobs/doq1fxu",
-    "location": "Atlanta, GA",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "C++",
-      "C",
+      "data analysis",
       "Python",
-      "MATLAB/Simulink"
+      "SQL",
+      "MS/Excel",
+      "Word",
+      "PowerPoint"
     ],
-    "posted": "2026-09-03T19:19:21.264Z",
-    "companyTier": "A",
+    "posted": "2026-10-04T17:50:29.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "$1B valuation",
-      "Series C"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:311a65d7-9d6a-4ea2-95dd-c30b30fcf420",
-    "companyId": "company_9771214d788abf9b6e7f7feef7813050",
-    "company": "DoorDash",
-    "companyDomain": "doordash.com",
-    "role": "Product Design, Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/trt7a8e",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "intern",
-    "skills": [
-      "AI",
-      "high-fidelity prototypes",
-      "AI-powered experience"
-    ],
-    "posted": "2026-09-03T15:58:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S13",
-      "$85.9B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6a2e190f-2357-410e-bde4-c7bf0f5361d9",
-    "companyId": "company_e502e15402e684389467393bdd7c23f7",
-    "company": "Hermeus",
-    "companyDomain": "hermeus.com",
-    "role": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-    "applyUrl": "https://go.landed.jobs/dpt5hfy",
+    "dedupeKey": "job:e5a5808b-9bd1-4ab4-a931-d41e6a7c53c0",
+    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
+    "company": "AECOM",
+    "companyDomain": "aecom.com",
+    "role": "Roadway Engineering Intern - Networking Event with AECOM – Atlanta, GA",
+    "applyUrl": "https://go.landed.jobs/hcuw9gs",
     "location": "Atlanta, GA",
     "locations": [
       "Atlanta, GA"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "intern",
     "skills": [
-      "C++",
-      "TypeScript/JavaScript",
-      "C/C++ Experience",
-      "Web Applications Experience (JavaScript, TypeScript, React, Angular, Electron, etc.)",
-      "Computer Networking knowledge",
-      "Aviation/simulation experience",
-      "Experience working on 2D or 3D games or simulations (especially Unreal, Unity, Cesium)"
+      "CADD software (ex. AutoCAD, MicroStation, OpenRoads)"
     ],
-    "posted": "2026-09-03T02:07:59.510Z",
-    "companyTier": "A",
+    "posted": "2026-10-03T19:56:39.056Z",
+    "companyTier": "B",
     "companyBadges": [
-      "$1B valuation",
-      "Series C"
+      "Public"
     ]
   },
   {
@@ -4634,6 +4345,56 @@
     ]
   },
   {
+    "dedupeKey": "job:b3ae144d-81de-44d6-a8ed-b2070e7eb38c",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "2027 Technology Intern - Data Engineering",
+    "applyUrl": "https://go.landed.jobs/w1c1m3d",
+    "location": "Austin, TX +2",
+    "locations": [
+      "Austin, TX",
+      "Westlake, TX",
+      "Southlake, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-02T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d58ec28b-bac4-4231-8793-9e0d13bd8621",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "Technology 2027 Intern - AI & CyberSecurity",
+    "applyUrl": "https://go.landed.jobs/txhzus5",
+    "location": "Austin, TX +4",
+    "locations": [
+      "Austin, TX",
+      "Southlake, TX",
+      "Westlake, TX",
+      "Phoenix, AZ",
+      "Omaha, NE"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-02T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:8bb91013-719d-4aea-a6ff-f25e326e4717",
     "companyId": "company_7349adb1e0982b0b117b6ca1bd096c75",
     "company": "Trimble",
@@ -4657,6 +4418,38 @@
     "companyTier": "B",
     "companyBadges": [
       "$13.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d9208e0b-a499-4f95-9f61-38b7724ec770",
+    "companyId": "company_c0df3da73ab6a4f316b6352d5ded4778",
+    "company": "HP",
+    "companyDomain": "hp.com",
+    "role": "AI Applied Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/zvm4ys2",
+    "location": "Vancouver, WA",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Artificial intelligence and machine learning",
+      "Coding and software development",
+      "AI inference and performance optimization",
+      "Software and systems engineering",
+      "Technical design and prototyping",
+      "Testing, debugging, and performance analysis",
+      "Agentic AI and edge-computing concepts",
+      "AI development tools such as Codex, Copilot, and Claude"
+    ],
+    "posted": "2026-10-02T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$24.9B valuation",
       "Public"
     ]
   },
@@ -6258,66 +6051,6 @@
     ]
   },
   {
-    "dedupeKey": "job:5f8b2d68-a169-4c44-96d6-11135f20cd8a",
-    "companyId": "company_438cd59b0714655b3b128e2dff6daebc",
-    "company": "Cigna",
-    "companyDomain": "cigna.com",
-    "role": "AI/ML Engineer Intern",
-    "applyUrl": "https://go.landed.jobs/bd4wq8m",
-    "location": "Austin, TX +2",
-    "locations": [
-      "Austin, TX",
-      "Morris Plains, NJ",
-      "St. Louis, MO"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "SQL",
-      "Spark",
-      "Databricks",
-      "AWS",
-      "PyTorch",
-      "TensorFlow",
-      "CI/CD"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:668c4329-5fb0-4dd0-ad7a-bb7421a9bee7",
-    "companyId": "company_bd94952bdd12c078bebf458f20ef827e",
-    "company": "Gilead",
-    "companyDomain": "gilead.com",
-    "role": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
-    "applyUrl": "https://go.landed.jobs/h1ro726",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "machine learning",
-      "statistical modeling",
-      "generative AI tools"
-    ],
-    "posted": "2026-09-29T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:6f35f999-96f5-41cd-9ec8-9582ea89ec0f",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -6495,6 +6228,33 @@
       "Vizcom",
       "Newarc",
       "Gravity Sketch"
+    ],
+    "posted": "2026-09-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d8b5001f-867b-4e66-b1e6-b17ff1d4c0fd",
+    "companyId": "company_bd94952bdd12c078bebf458f20ef827e",
+    "company": "Gilead",
+    "companyDomain": "gilead.com",
+    "role": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+    "applyUrl": "https://go.landed.jobs/wbluypa",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "machine learning",
+      "statistical modeling",
+      "generative AI tools"
     ],
     "posted": "2026-09-29T00:00:00.000Z",
     "companyTier": "B",
@@ -7043,6 +6803,62 @@
     ]
   },
   {
+    "dedupeKey": "job:25f0201c-2670-45e8-856b-5c394297dec1",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "2027 Technology Intern - Software Engineering",
+    "applyUrl": "https://go.landed.jobs/usszkrc",
+    "location": "Austin, TX +5",
+    "locations": [
+      "Austin, TX",
+      "Westlake, TX",
+      "Southlake, TX",
+      "Phoenix, AZ",
+      "Ann Arbor, MI",
+      "Omaha, NE"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "Java",
+      "Python",
+      "C#",
+      "SQL",
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "posted": "2026-09-25T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:9f9bbbb7-b509-4909-acd3-9b5080c846ce",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "2027 Technology Intern - Site Reliability Engineering",
+    "applyUrl": "https://go.landed.jobs/rmbd332",
+    "location": "Austin, TX",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-09-25T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:3814849b-f529-41af-9386-1eddc16c87f8",
     "companyId": "company_da51505795a3f650af3f7423264a3526",
     "company": "Motorola Solutions",
@@ -7088,39 +6904,6 @@
       "Java",
       "automated tests",
       "workflow framework"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:f0f51902-52c2-4d18-8943-510bcbdd73d0",
-    "companyId": "company_1a0797dd59cd7665c4b3797b714138a4",
-    "company": "Brunswick Corp.",
-    "companyDomain": "brunswick.com",
-    "role": "Reinforcement Learning Intern",
-    "applyUrl": "https://go.landed.jobs/d3baiqu",
-    "location": "Champaign, IL",
-    "locations": [
-      "Champaign, IL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "C++",
-      "Robot Operating System (Ros)",
-      "Reinforcement Learning",
-      "simulation environments",
-      "Unity",
-      "Unreal Engine",
-      "Isaac Sim",
-      "Gazebo",
-      "VRX"
     ],
     "posted": "2026-09-25T00:00:00.000Z",
     "companyTier": "B",
@@ -7314,28 +7097,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$317M valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:05421c76-0041-4c39-8934-3748a59af45d",
-    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
-    "company": "AECOM",
-    "companyDomain": "aecom.com",
-    "role": "Traffic/Safety Engineering Intern - Networking Event with AECOM – Atlanta, GA",
-    "applyUrl": "https://go.landed.jobs/1ximapr",
-    "location": "Atlanta, GA",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-23T13:36:09.439Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -8103,31 +7864,6 @@
     ]
   },
   {
-    "dedupeKey": "job:bdb37df3-4f8c-4de7-b016-f4abf91ec289",
-    "companyId": "company_9d61174c99bfe8e347abf2cf62b6ad55",
-    "company": "Search results | Trane Technologies",
-    "companyDomain": "tranetechnologies.com",
-    "role": "Software Engineer Intern",
-    "applyUrl": "https://go.landed.jobs/7ab0mc0",
-    "location": "La Crosse, WI",
-    "locations": [
-      "La Crosse, WI"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "writing code",
-      "code reviews"
-    ],
-    "posted": "2026-09-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:e1f20e4f-f3b0-4b5a-9257-7a9f7addbef2",
     "companyId": "company_80641756e29e927f68609b3cba4f009d",
     "company": "Join Zimmer Biomet for Exceptional Career Opportunities",
@@ -8740,6 +8476,244 @@
       "inference optimization"
     ],
     "posted": "2026-09-17T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:48039bff-94a4-4d7f-b5a5-2630c1744489",
+    "companyId": "company_758ae87fafb198685609b27abe379511",
+    "company": "Tokyo Electron",
+    "companyDomain": "tel.com",
+    "role": "Data Platforms Engineer Summer 2027 Intern",
+    "applyUrl": "https://go.landed.jobs/pl866pf",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "intern",
+    "skills": [
+      "Agile Software Development methodologies",
+      "DevOps"
+    ],
+    "posted": "2026-09-17T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$158B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:58f9e95b-b291-49d7-8fed-fded17aa0af2",
+    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
+    "company": "Visa",
+    "companyDomain": "visa.com",
+    "role": "Staff Research Scientist, Intern - PhD Quantum",
+    "applyUrl": "https://go.landed.jobs/e3158lj",
+    "location": "Foster City, CA",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "Generative AI tools ( e.g. ChatGPT, Microsoft Copilot)"
+    ],
+    "posted": "2026-09-17T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8674486f-45be-4bda-9c51-59a25db2a679",
+    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
+    "company": "Visa",
+    "companyDomain": "visa.com",
+    "role": "Staff Research Scientist, Intern - PhD Foundational AI",
+    "applyUrl": "https://go.landed.jobs/q4wi4ml",
+    "location": "Foster City, CA",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Generative AI",
+      "LLMs",
+      "deep learning",
+      "scalable ML",
+      "fine-tuning",
+      "model evaluation",
+      "AI agents",
+      "large-scale model training",
+      "efficient inference",
+      "distributed systems",
+      "Python",
+      "Hadoop"
+    ],
+    "posted": "2026-09-17T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c0f45600-4416-4e6a-bacc-c390f39af595",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "PhD Research Intern",
+    "applyUrl": "https://go.landed.jobs/hsecm3f",
+    "location": "Milpitas, CA",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "deep learning",
+      "natural language processing",
+      "advanced analytics",
+      "statistical analysis software"
+    ],
+    "posted": "2026-09-17T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6317c46d-4de9-498d-a765-f81fb82c7039",
+    "companyId": "company_ec499c62eca828454efdaf3b6b75c88c",
+    "company": "Rocket Lab",
+    "companyDomain": "rocketlabusa.com",
+    "role": "Security Analyst Intern Summer 2027",
+    "applyUrl": "https://go.landed.jobs/cibykam",
+    "location": "Middle River, MD",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "intern",
+    "skills": [
+      "security education",
+      "intelligence and risk assessments",
+      "network infrastructure research",
+      "physical security"
+    ],
+    "posted": "2026-09-16T23:25:14.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:0f87066b-a855-4b82-b42d-4bc718df3ef9",
+    "companyId": "company_ec499c62eca828454efdaf3b6b75c88c",
+    "company": "Rocket Lab",
+    "companyDomain": "rocketlabusa.com",
+    "role": "Security Analyst Intern Spring 2027",
+    "applyUrl": "https://go.landed.jobs/eky8trr",
+    "location": "Middle River, MD",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-09-16T23:24:58.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d5aa3daf-6976-49df-a975-fca305d7e6af",
+    "companyId": "company_ec499c62eca828454efdaf3b6b75c88c",
+    "company": "Rocket Lab",
+    "companyDomain": "rocketlabusa.com",
+    "role": "Security Analyst Intern Summer 2027",
+    "applyUrl": "https://go.landed.jobs/rca6nbl",
+    "location": "Albuquerque, NM",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-09-16T20:43:26.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6b355dcc-d76b-4768-b9e8-e68727abfb31",
+    "companyId": "company_ec499c62eca828454efdaf3b6b75c88c",
+    "company": "Rocket Lab",
+    "companyDomain": "rocketlabusa.com",
+    "role": "Security Analyst Intern Summer 2027",
+    "applyUrl": "https://go.landed.jobs/izyvz15",
+    "location": "Long Beach, CA",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "intern",
+    "skills": [
+      "security education",
+      "intelligence and risk assessments",
+      "network infrastructure research",
+      "physical security"
+    ],
+    "posted": "2026-09-16T20:42:47.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:73048e5c-1daa-4401-97ac-c76a21f01132",
+    "companyId": "company_ec499c62eca828454efdaf3b6b75c88c",
+    "company": "Rocket Lab",
+    "companyDomain": "rocketlabusa.com",
+    "role": "Security Analyst Intern Spring 2027",
+    "applyUrl": "https://go.landed.jobs/ybvls01",
+    "location": "Albuquerque, NM",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "intern",
+    "skills": [
+      "security education",
+      "intelligence and risk assessments",
+      "network infrastructure research",
+      "physical security"
+    ],
+    "posted": "2026-09-16T20:42:36.000Z",
     "companyTier": "B",
     "companyBadges": [
       "Public"
