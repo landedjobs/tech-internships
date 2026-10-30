@@ -1,5 +1,37 @@
 [
   {
+    "dedupeKey": "job:47e154c2-6444-4a67-b159-7da431012563",
+    "companyId": "company_020149764b08b9d332764720f38b565b",
+    "company": "Genius AI",
+    "companyDomain": "genius.ai",
+    "role": "Software Engineer Intern Winter 2026-2027",
+    "applyUrl": "https://go.landed.jobs/4cygqt9",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Ruby",
+      "Kotlin",
+      "React",
+      "Postgres",
+      "SQL",
+      "gRPC"
+    ],
+    "posted": "2026-10-29T20:43:47.683Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1.1B valuation",
+      "Series D"
+    ]
+  },
+  {
     "dedupeKey": "job:d099cb5d-e3a7-40ed-9339-6288f34771c2",
     "companyId": "company_067a3ff791863417522f914224a554a8",
     "company": "Cloudflare",
@@ -2734,33 +2766,6 @@
     ]
   },
   {
-    "dedupeKey": "job:1beb709a-bbb4-414b-83b4-6a8372f0e9a9",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Summer 2027 Intern - Solution Engineer",
-    "applyUrl": "https://go.landed.jobs/5cg1qg2",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "intern",
-    "skills": [
-      "cloud-based solutions",
-      "Salesforce’s platform",
-      "CRM platforms"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:14a2b867-40dc-4780-9612-41940c0f3f5d",
     "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
     "company": "Anduril Industries",
@@ -4097,6 +4102,50 @@
     "companyTier": "B",
     "companyBadges": [
       "$15.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:7e6178ff-a959-47cc-b8e7-015e8b8cc59c",
+    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
+    "company": "Philips",
+    "companyDomain": "philips.com",
+    "role": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/vn6ptn7",
+    "location": "Murrysville, PA",
+    "locations": [
+      "Murrysville, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "design_research",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c5c292e7-1916-4d18-b5d4-505b23ffa805",
+    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
+    "company": "Philips",
+    "companyDomain": "philips.com",
+    "role": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027",
+    "applyUrl": "https://go.landed.jobs/ryu3p2d",
+    "location": "Murrysville, PA",
+    "locations": [
+      "Murrysville, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
       "Public"
     ]
   },
@@ -5728,39 +5777,6 @@
     ]
   },
   {
-    "dedupeKey": "job:76f2c1dc-1b16-471d-8d85-3a0a77893715",
-    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
-    "company": "Philips",
-    "companyDomain": "philips.com",
-    "role": "Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/y5cqvmu",
-    "location": "US · Nashville, TN",
-    "locations": [
-      "US",
-      "Nashville, TN"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "R",
-      "SQL",
-      "Tableau",
-      "Power BI",
-      "Excel",
-      "PowerPoint",
-      "Word",
-      "Outlook"
-    ],
-    "posted": "2026-10-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:82aa507b-711f-438f-9755-44293775b482",
     "companyId": "company_da51505795a3f650af3f7423264a3526",
     "company": "Motorola Solutions",
@@ -6145,28 +6161,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$142B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5f25851e-a747-4120-a532-13e9c71fe270",
-    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
-    "company": "Philips",
-    "companyDomain": "philips.com",
-    "role": "Intern – R&D Front-End Innovation Intern - Oral Healthcare – Bothell, WA – Summer 2027",
-    "applyUrl": "https://go.landed.jobs/6rfuxj8",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Bothell, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
