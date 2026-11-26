@@ -7439,6 +7439,32 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:ff147085-73d6-4470-9da3-2f2b3cd386b3",
+    "companyId": "company_0b9d77e101e979c1c4863fe7236844f6",
+    "company": "Ancestry",
+    "companyDomain": "ancestry.com",
+    "role": "Product Manager Co-op – DNA to Family History (Bridges)",
+    "applyUrl": "https://go.landed.jobs/vy1dtjv",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "intern",
+    "skills": [
+      "SQL",
+      "A/B testing",
+      "Tableau"
+    ],
+    "posted": "2026-11-25T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$4.7B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:3cccb8b1-863e-4e11-8668-120a27158af9",
     "companyId": "company_6ff9f7a84062719822e140f98ce38298",
     "company": "REGENT",
@@ -7869,26 +7895,6 @@
     "level": "intern",
     "skills": [],
     "posted": "2026-11-21T00:14:24.398Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:83168077-d933-48a6-b0e4-9f34bf90d00b",
-    "companyId": "company_68767e82c4962622286a0532b62808a3",
-    "company": "Zoox",
-    "companyDomain": "zoox.com",
-    "role": "Supply Chain AI Intern [Summer 2027]",
-    "applyUrl": "https://go.landed.jobs/v73jqom",
-    "location": "Foster City, CA",
-    "locations": [
-      "Foster City, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-11-20T23:15:03.935Z",
     "companyTier": "U",
     "companyBadges": []
   }
